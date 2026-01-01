@@ -15,4 +15,4 @@
 ### Notes
 - Requires Image Processing Toolbox.
 - Uses `projroot.m` to ensure relative paths work on all systems.
-- 4 images in test folder to use.
+- 3 images in test folder to use.
