@@ -208,7 +208,6 @@ end
 % Load saved detector
 load("plateDetector_v4.mat","detector");
 
-
 %---------------- Read image ----------------
 testImg = imread(fullfile(root, "tests", "gldidydubs651.jpg"));
 
