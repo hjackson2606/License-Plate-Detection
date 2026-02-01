@@ -1,6 +1,6 @@
 # License Plate Recognition Project
 
-This project was trained on approximately 200 images with corresponding bounding boxes using the YOLOv4-Tiny model. The system detects license plates in images, enhances the detected plate region, and applies Optical Character Recognition (OCR) to extract the plate characters.
+This project was trained on 237 images with corresponding bounding boxes using the YOLOv4-Tiny model. The system detects license plates in images, enhances the detected plate region, and applies Optical Character Recognition (OCR) to extract the plate characters.
 
 The model achieves an Average Precision (AP) of 72% with a maximum recall of 80%, which is strong performance given the limited dataset size.
 
