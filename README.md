@@ -6,7 +6,7 @@ The model achieves an Average Precision (AP) of 72% with a maximum recall of 80%
 
 ## Limitations
 
-The model tends to struggle with noisy images, glare, and vehicles that are not oriented straight-on. Due to the nature of OCR, visually similar characters (such as `6` and `G`) may occasionally be misclassified. Despite these challenges, the system performs reliably on well-lit, front-facing vehicle images.
+The model tends to struggle with noisy images, glare, and vehicles that are not oriented straight on. Due to the nature of OCR, visually similar characters (such as `6` and `G`) may occasionally be misclassified. Despite these challenges, the system performs reliably on well lit, front facing vehicle images.
 
 ## How to Run
 1. Open `LicensePlateProject.prj` in MATLAB. Make sure to open through the project tab. If you need to check if the project is open, after importing, just double click LicensePlateProject.prj
